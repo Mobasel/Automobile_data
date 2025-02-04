@@ -13,19 +13,19 @@ These questions cover descriptive analytics, comparative analysis, and even some
 
 
 ##### ⚡ Performance Analysis
-Which fuel type (gas vs diesel) provides the best city and highway mileage? 
-What is the average horsepower of cars based on the engine type (DOHC, OHC, etc.)? 
+- Which fuel type (gas vs diesel) provides the best city and highway mileage? 
+- What is the average horsepower of cars based on the engine type (DOHC, OHC, etc.)? 
 
 ##### 🚙 Customer Preference Insights
-What are the most common body styles among the listed cars? 
-How does the number of doors affect car sales or prices? 
-Which drive-wheel configuration (FWD, RWD, 4WD) is associated with higher-priced cars? 
+- What are the most common body styles among the listed cars? 
+- How does the number of doors affect car sales or prices? 
+- Which drive-wheel configuration (FWD, RWD, 4WD) is associated with higher-priced cars? 
 
 ##### 📊 Trend & Comparative Analysis
-Compare cars with turbo aspiration vs standard in terms of price, and horsepower. 
-Is there any pattern between engine size and car price across different brands? 
-What is the average curb weight of cars based on the body style? 
-Find cars with above-average city and highway MPG—ideal for fuel-conscious customers. 
+- Compare cars with turbo aspiration vs standard in terms of price, and horsepower. 
+- Is there any pattern between engine size and car price across different brands? 
+- What is the average curb weight of cars based on the body style? 
+- Find cars with above-average city and highway MPG—ideal for fuel-conscious customers. 
 
 
 
