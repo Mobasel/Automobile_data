@@ -1,5 +1,6 @@
 # Automobile_data
 I found a [dataset](https://www.kaggle.com/datasets/sumaya23abdul/automobile-database) on Kaggle that contains Automobile Sales, so, I decided to dig deeper and analyze it to get insights related to the sales and price distribution, Performance, Customer Preference, and Trend & Comparative Analysis.
+Here is the [Work Sheet]([Automobile_data.xlsx](https://github.com/user-attachments/files/18664186/Automobile_data.xlsx))
 
 These questions cover descriptive analytics, comparative analysis, and even some trend insights that could help in understanding the data better"
 
